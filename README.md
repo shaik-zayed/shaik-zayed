@@ -1,16 +1,26 @@
-### Hi there 👋
+# 👋 Hello, I'm Zayed!
 
-<!--
-**shaik-zayed/shaik-zayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me:
+- 💻 I'm a passionate developer.
+- 🌱 I'm currently learning and exploring new technologies.
+- 🔭 I’m interested in CyberSecurity driven development.
+<!-- - 📫 How to reach me: [Your Email] | [Your Website] | [Your LinkedIn]-->
 
-Here are some ideas to get you started:
+### ⚡ Technologies:
+Here are a few technologies I've been working with recently:
+- Programming Languages: Java
+- Frontend Development: HTML, CSS, JavaScript, JSP, Thymeleaf
+- Backend Development: Spring Boot, Maven, Hibernate, SQL
+- DevOps & Cloud: AWS
+- Databases: MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats:
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shaik-zayed)](https://github.com/shaik-zayed)
+
+<!-- ### 📫 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [Twitter](https://twitter.com/yourusername)
+- [Website](https://www.yourwebsite.com) -->
+
+### 💬 Favorite Quote:
+"The quieter you become, the more you are able to hear."
