@@ -8,6 +8,9 @@
 
 ### 🚀 About Me:
 
+</div>
+
+<div align="justify">
 As a developer, I'm like a digital architect, crafting the online world piece by piece with a blend of passion and precision. From laying the foundation to solving real-world puzzles, I build projects from scratch, all    while keeping cybersecurity close to my heart. Every line of code is infused with care and determination, ensuring a safer and more resilient digital space for everyone.
   
 </div>
