@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 🚀 About Me:
+### 🚀 About Me 🚀
 
 </div>
 
@@ -20,7 +20,7 @@ As a developer, I'm like a digital architect, crafting the online world piece by
 
 <div align="center">
 
-### ⚡ Technologies:
+### ⚡ Technologies ⚡
 
 Here are a few tools and technologies I've been working with recently
 </div>
@@ -35,7 +35,7 @@ Here are a few tools and technologies I've been working with recently
 
 <div align="center">
 
-### 📈 GitHub Stats:
+### 📈 GitHub Stats 📈
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaik-zayed&theme=highcontrast&border_radius=40)](https://git.io/streak-stats)
 
@@ -47,7 +47,7 @@ Here are a few tools and technologies I've been working with recently
 
 <div align="center">
 
-### 💬 Favorite Quote:
+### 💬 Favorite Quote 💬
 
 "The quieter you become, the more you are able to hear."
 
