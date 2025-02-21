@@ -35,9 +35,9 @@ Here are a few tools and technologies I've been working with recently
 
 <div align="center">
 
-### 📈 GitHub Stats 📈
+<!--### 📈 GitHub Stats 📈
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaik-zayed&theme=highcontrast&border_radius=40)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shaik-zayed&theme=highcontrast&border_radius=40)](https://git.io/streak-stats)-->
 
 </div>
 <!-- ### 📫 Connect with Me:
