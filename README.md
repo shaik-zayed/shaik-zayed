@@ -27,28 +27,28 @@ Here are a few tools and technologies I've been working with recently
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,mysql,aws,git,github,linux,kali,vscode,idea,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,spring,mysql,aws,git,github,linux,kali,vscode,idea,postman" />
   </a>
 </div>
 
-<br>
+<!-- <br> -->
 
-<div align="center">
+<!-- <div align="center">
 
-<!--### 📈 GitHub Stats 📈
+### 📈 GitHub Stats 📈
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shaik-zayed&theme=highcontrast&border_radius=40)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shaik-zayed&theme=highcontrast&border_radius=40)](https://git.io/streak-stats)
 
-</div>
+</div> -->
 <!-- ### 📫 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/yourusername)
 - [Twitter](https://twitter.com/yourusername)
 - [Website](https://www.yourwebsite.com) -->
 
-<div align="center">
+<!-- <div align="center">
 
 ### 💬 Favorite Quote 💬
 
 "The quieter you become, the more you are able to hear."
 
-</div>
+</div> -->
