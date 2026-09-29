@@ -27,7 +27,7 @@ Here are a few tools and technologies I've been working with recently
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,spring,mysql,aws,git,github,linux,kali,vscode,idea,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,ts,react,java,spring,mysql,aws,git,github,linux,kali,vscode,idea,postman" />
   </a>
 </div>
 
